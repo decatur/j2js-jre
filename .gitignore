@@ -1,0 +1,4 @@
+pom.xml
+src/test/**/*
+target/**/*
+src/main/webapp/WEB-INF/**/*
