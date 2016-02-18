@@ -3,7 +3,7 @@ package java.util;
 /**
  * This class implements the Set interface, backed by a {@link java.util.HashMap}.
  * 
- * @author j2js.com
+ * @author Wolfgang Kuehn
  */
 public class HashSet<E> extends AbstractCollection<E> implements Set<E> {
 

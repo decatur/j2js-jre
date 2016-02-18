@@ -6,7 +6,7 @@ import javascript.ScriptHelper;
 
 /**
  * A Method provides information about, and access to, a single method on a class or interface.
- * @author j2js.com
+ * @author Wolfgang Kuehn
  */
 public final class Method {
     

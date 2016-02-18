@@ -3,7 +3,7 @@ package javax.script;
 /**
  * This class provides basic scripting functionality.
  *    
- * @author j2js.com
+ * @author Wolfgang Kuehn
  */
 public interface ScriptEngine {
     

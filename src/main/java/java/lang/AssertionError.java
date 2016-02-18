@@ -2,7 +2,7 @@ package java.lang;
 
 /**
  * Thrown to indicate that an assertion has failed.
- * @author j2js.com
+ * @author Wolfgang Kuehn
  */
 public class AssertionError extends Error {
     public AssertionError() {

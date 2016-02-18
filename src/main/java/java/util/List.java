@@ -3,7 +3,7 @@ package java.util;
 /**
  * An ordered collection (also known as a sequence).
  * 
- * @author j2js.com
+ * @author Wolfgang Kuehn
  */
 public interface List<T> extends Collection<T> {
 

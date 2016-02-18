@@ -5,13 +5,12 @@ import javascript.ScriptHelper;
 /**
  * Utility class for HTML form encoding.
  * 
- * @author j2js.com
+ * @author Wolfgang Kuehn
  */
 public class URLEncoder {
 
     /**
      * Translates a string into application/x-www-form-urlencoded format using a specific encoding scheme.
-
      * @param enc must be 'UTF-8'
      */
     public static String encode(String s, String enc) { // TODO: throws UnsupportedEncodingException

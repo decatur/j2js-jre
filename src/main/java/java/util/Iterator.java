@@ -1,18 +1,11 @@
 /*
- * Copyright (c) 2006 j2js.com,
- *
- * All Rights Reserved. This work is distributed under the j2js Software License [1]
- * WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or
- * FITNESS FOR A PARTICULAR PURPOSE.
- *
- * [1] http://www.j2js.com/license.txt
+ * Copyright (c) 2006 Wolfgang Kuehn
  */
 
 package java.util;
 
 /**
  * An iterator over a collection.
- * @author j2js.com
  */
 public interface Iterator<E> {
     

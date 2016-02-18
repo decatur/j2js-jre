@@ -2,8 +2,6 @@ package java.net;
 
 /**
  * Class URL represents a Uniform Resource Locator, a pointer to a "resource" on the World Wide Web.
- * 
- * @author j2js.com
  */
 public class URL {
 

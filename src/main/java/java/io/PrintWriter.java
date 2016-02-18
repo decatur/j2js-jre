@@ -3,7 +3,7 @@ package java.io;
 /**
  * Print formatted representations of objects to a text-output stream.
  * 
- * @author j2js.com
+ * @author Wolfgang Kuehn
  */
 public class PrintWriter {
 

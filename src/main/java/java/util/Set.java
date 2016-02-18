@@ -2,8 +2,6 @@ package java.util;
 
 /**
  * A collection that contains no duplicate elements.
- * 
- * @author j2js.com
  */
 public interface Set<E> extends Collection<E> {
 

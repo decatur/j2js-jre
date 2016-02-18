@@ -5,7 +5,7 @@ import javascript.ScriptHelper;
 /**
  * The Character class wraps a value of the primitive type char in an object.
  * 
- * @author j2js.com
+ * @author Wolfgang Kuehn
  */
 public final class Character {
 

@@ -4,8 +4,6 @@ import javascript.ScriptHelper;
 
 /**
  * Resizable-array implementation of the List interface. 
- * 
- * @author j2js.com
  */
 public class ArrayList<E> extends AbstractCollection<E> implements List<E> {
     

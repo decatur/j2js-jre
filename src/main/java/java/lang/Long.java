@@ -5,7 +5,7 @@ import javascript.ScriptHelper;
 /**
  * The Long class wraps a value of the primitive type long in an object. 
  * 
- * @author j2js.com
+ * @author Wolfgang Kuehn
  */
 public final class Long {
     

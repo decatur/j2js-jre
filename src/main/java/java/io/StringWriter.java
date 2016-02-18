@@ -4,7 +4,7 @@ package java.io;
  * A character stream that collects its output in a string buffer,
  * which can then be used to construct a string.
  * 
- * @author j2js.com
+ * @author Wolfgang Kuehn
  */
 public class StringWriter extends Writer {
     

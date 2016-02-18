@@ -4,8 +4,6 @@ import javascript.JSObject;
 
 /**
  * Hash table based implementation of the Map interface.
- * 
- * @author j2js.com
  */
 public class HashMap<K, V> implements Map<K, V> {
     JSObject nativeMap;

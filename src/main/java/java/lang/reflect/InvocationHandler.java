@@ -2,8 +2,6 @@ package java.lang.reflect;
 
 /**
  * InvocationHandler is the interface implemented by the invocation handler of a proxy instance.
- * 
- * @author j2js.com
  */
 public interface InvocationHandler {
     

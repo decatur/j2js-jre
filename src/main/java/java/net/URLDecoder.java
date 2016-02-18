@@ -4,8 +4,6 @@ import javascript.ScriptHelper;
 
 /**
  * Utility class for HTML form decoding.
- * 
- * @author j2js.com
  */
 public class URLDecoder {
 

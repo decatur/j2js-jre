@@ -5,8 +5,6 @@ import javascript.ScriptHelper;
 /**
  * This class provides an API compatible with <code>StringBuffer</code>.
  * Please use this class instead of {@link java.lang.StringBuffer}.
- * 
- * @author j2js.com
  */
 public class StringBuilder {
     
